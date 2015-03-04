@@ -1,2 +1,2 @@
 # qlog.io
-Modern queue log system
+Do we need a modern queue log system?
